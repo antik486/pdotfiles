@@ -1,0 +1,21 @@
+{
+  "name": "antik486-pdotfiles",
+  "author": "antik486",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    ".project": "9c5689be47a018420c3a98dc4aabce72",
+    "Modulefile": "dfff2e06448f1808be0989fe3d3642a4",
+    "README.markdown": "55991b6e3ec0e4de8f630b3eef99cafe",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests/init.pp": "41d431bb7c7384724f46ef50c1400a41",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests/init.pp": "1002c8208e6f498f6fc729caa11a2a11"
+  },
+  "dependencies": []
+}
